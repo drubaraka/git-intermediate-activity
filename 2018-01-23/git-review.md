@@ -2,7 +2,7 @@ Describe with your own words what the following command is doing or answer the q
 
 1. `git add -A`
 
-1. `git commit -m “My first commit”`
+1. `git commit -m “My first commit” -- commits a staged item for final review `
 
 1. `git diff file.txt`
 
